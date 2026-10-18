@@ -15,7 +15,7 @@
 
 I'm a developer who loves turning ideas into working products. Whether it's a web app, a desktop tool, or an AI project — I build things that matter.
 
-- Currently working on: **Selene Shop** — an E-commerce for accessories with admin panel
+- Currently working on: **Food-Supply-Chain-Tracing** — an Parallel Computing Project — Sequential BFS Tracing and Benchmarking
 - Exploring: **Flutter, Game Developing, and Machine Learning**
 - CS student at **Imam Abdulrahman Bin Faisal University (IAU)**
 
